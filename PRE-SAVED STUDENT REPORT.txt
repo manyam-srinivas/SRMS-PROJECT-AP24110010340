@@ -1,0 +1,23 @@
+PRE-SAVED STUDENT REPORT
+
+==========================================================================================
+NAME                APP NUMBER     MOBILE         SEM       CGPA    EMAIL
+==========================================================================================
+Venkatesh           AP248619       7100024069     3         5.50    Venkatesh@srmap.edu.in
+Sai Pallavi         AP248720       9100018346     1         7.70    Sai Pallavi@srmap.edu.in
+Harsha              AP245202       7100005076     5         8.20    Harsha@srmap.edu.in
+Deepika             AP244943       6100001020     1         6.50    Deepika@srmap.edu.in
+Manoj               AP248194       8100024632     7         9.90    Manoj@srmap.edu.in
+Keerthi             AP248648       8100006040     3         5.60    Keerthi@srmap.edu.in
+Abhinav             AP244177       8100017740     3         8.00    Abhinav@srmap.edu.in
+Swathi              AP244939       9100002906     3         8.30    Swathi@srmap.edu.in
+Tarun               AP242128       8100031778     3         9.80    Tarun@srmap.edu.in
+Lakshmi             AP243392       6100005984     5         7.10    Lakshmi@srmap.edu.in
+==========================================================================================
+
+--- ADMIN CONTROL PANEL ---
+1. Add New Student
+2. Delete Student
+3. Modify Student Details
+4. View All Records (Refresh)
+5. Logout
